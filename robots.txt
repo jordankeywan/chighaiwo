@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobishieg.highfructosezombies.com/sitemap.xml
